@@ -1,5 +1,3 @@
-# AI-FitTrack-API
-
 # AI FitTrack API
 Team ID : SWTID-2026-8079
 Team Size : 5
